@@ -1,5 +1,5 @@
 # Redis Viewer
--- A web app to manage multiple redis database connections, with Key Browser, Redis CLI, Multiple Connections, and Request Tracking
+A web app to manage multiple redis database connections, with Key Browser, Redis CLI, Multiple Connections, and Request Tracking
 
 # Only for private use.
 
